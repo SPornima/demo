@@ -7,3 +7,50 @@ repositories,
 branch as per the user requirment
 
 added messege for commit
+
+--------------------------------------------------------------------------------------
+
+git config --global
+user.name
+user.email
+
+git init 
+git clone <repo_url> : same name folder will be generated on same location 
+
+git add .
+
+git commit -m "commit msg"
+git status
+git push 
+git status
+
+
+
+
+
+To view branches:
+git branch
+
+To create a new Git branch:
+git branch <branch_name>
+
+To change branch:
+git checkout <branch_name>
+
+To delete branch:
+git branch --delete <branch_name>
+
+To push branch on git hub:
+git push --set-upstream origin Parkar
+
+to merge the commit in another branch :
+git merge <branch_name>
+
+
+if you want change the font color : color ihkjbjb
+
+color 0a
+
+
+
+
