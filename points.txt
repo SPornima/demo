@@ -1,9 +1,0 @@
-devloper,PM,finance
-
-experience
-git and git hub,
-day to work git nd git hub 
-repositories,
-branch as per the user requirment
-
-added messege for commit
